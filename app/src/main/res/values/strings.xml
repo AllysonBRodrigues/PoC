@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoC Globomais</string>
+    <string name="criptografia">Criptografia</string>
+    <string name="login">LOGIN</string>
+</resources>
