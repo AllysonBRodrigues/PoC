@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339992523195",
+    "firebase_url": "https://globomaispoc.firebaseio.com",
+    "project_id": "globomaispoc",
+    "storage_bucket": "globomaispoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339992523195:android:00568d5a750b667f",
+        "android_client_info": {
+          "package_name": "globomagazines.com.br.pocglobomais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339992523195-33for06jv79udo1tkh8fv0762hc3mj78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "globomagazines.com.br.pocglobomais",
+            "certificate_hash": "af5659e7d6fd7ecb0f1924d3f8baf2932d475637"
+          }
+        },
+        {
+          "client_id": "339992523195-oigmjrh08rfok02jifmdvp9rq1oc2omb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPq5otpTqqbN0goOyIpxdW1JUQu1_hE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339992523195-oigmjrh08rfok02jifmdvp9rq1oc2omb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
